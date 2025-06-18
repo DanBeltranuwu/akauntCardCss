@@ -22,9 +22,9 @@
 
  .label {
      margin-top: 0px !important;
-     color: white !important;
-     font-weight: 300;
-     font-size: 16px;
+     color: blue !important;
+     font-weight: 400;
+     font-size: 14px;
  }
 
 
@@ -34,7 +34,7 @@
      position: relative;
      height: 0px;
      color: black;
-     font-size: 16px;
+     font-size: 14px;
      top: -20px;
  }
 
