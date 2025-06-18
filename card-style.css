@@ -3,7 +3,7 @@
  }
 
  .list {
-     padding: 16px 24px 0px 16px;
+     padding: 0px 0px 0px 0px;
      flex-wrap: wrap;
      display: flex;
      flex-direction: row;
@@ -24,8 +24,8 @@
  .label {
      margin-top: 0px !important;
      color: transparent !important;
-     font-weight: 300;
-     font-size: 16px;
+     font-weight: 400;
+     font-size: 14px;
  }
 
 
@@ -35,7 +35,7 @@
      position: relative;
      height: 0px;
      color: black;
-     font-size: 16px;
+     font-size: 14px;
      top: -20px;
  }
 
