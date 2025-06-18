@@ -11,10 +11,11 @@
      box-shadow: none;
      height: fit-content;
      background-color: rgba(237, 239, 246, 1);
+     border-radius: 0;
  }
 
  .list>* {
-     margin: 0 0 16px 0 !important;
+     margin: 0 0 0px 0 !important;
      padding: 0 !important;
      box-sizing: border-box;
  }
