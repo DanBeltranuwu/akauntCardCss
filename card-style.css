@@ -3,19 +3,17 @@
  }
 
  .list {
-     padding: 0px 0px 0px 0px;
+     padding: 16px 24px 0px 16px;
      flex-wrap: wrap;
      display: flex;
      flex-direction: row;
      width: 95%;
      box-shadow: none;
      height: fit-content;
-     background-color: rgba(237, 239, 246, 1);
-     border-radius: 0;
  }
 
  .list>* {
-     margin: 0 0 0px 0 !important;
+     margin: 0 0 16px 0 !important;
      padding: 0 !important;
      box-sizing: border-box;
  }
@@ -24,9 +22,9 @@
 
  .label {
      margin-top: 0px !important;
-     color: transparent !important;
-     font-weight: 400;
-     font-size: 14px;
+     color: white !important;
+     font-weight: 300;
+     font-size: 16px;
  }
 
 
@@ -36,7 +34,7 @@
      position: relative;
      height: 0px;
      color: black;
-     font-size: 14px;
+     font-size: 16px;
      top: -20px;
  }
 
